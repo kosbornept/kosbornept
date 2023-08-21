@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kosbornept
 - 👀 I’m interested in ux/ui. 
-- 🌱 Currently learning React.
+- 🌱 Currently deep diving React.
 - 💞️ Looking to collaborate on anything, expanding my knowledge in anyway possible. 
 - 📫 How to reach me: kosborne.pt@gmail.com
 
