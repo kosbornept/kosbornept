@@ -2,7 +2,7 @@
 - 👀 I’m interested in ux/ui. 
 - 🌱 Currently deep diving React.
 - 💞️ Looking to collaborate on anything, expanding my knowledge in anyway possible. 
-- 📫 How to reach me: kosborne.pt@gmail.com
+- 📫 How to reach me: kwosborne.pt@gmail.com
 
 <!---
 kosbornept/kosbornept is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
